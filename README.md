@@ -296,5 +296,5 @@ Check out these articles on learning to program:
 - [How I Became a Programmer](http://mattdeboard.net/2011/11/23/how-i-became-a-programmer/)
 - [Check out Hacker News](https://news.ycombinator.com/)
 
-
-Completing the work in these links will be critical to your success. Historically, thorough completion of the pre-work has been the single greatest indicator of student ability to do well in the course! Please ensure you take the necessary time to complete the pre-work, and bring any questions to instructors during Study Hall. 
+---
+**Completing the work in these links will be critical to your success. Historically, thorough completion of the pre-work has been the single greatest indicator of student ability to do well in the course! Please ensure you take the necessary time to complete the pre-work, and bring any questions to instructors during Study Hall.**
