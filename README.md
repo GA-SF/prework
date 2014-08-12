@@ -232,17 +232,29 @@ Instead of attempting to install Ruby (and creating headaches at Installfest), t
 - [Chris Pine's Learn to Program](http://pine.fm/LearnToProgram/) - A tutorial in ruby about programming concepts (it's $18 for the e-book and optional).
 - [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/) - Exercises 1-14, 18-44 -- Don’t install Ruby, use [REPL.it](http://repl.it/languages/Ruby)
 
----
-
 ##Javascript (25 hours)
 Javascript is the language of the web and an increasingly popular language. As a soon-to-be web developer, we want you to get some exposure to it. Compared to Ruby, it may feel a bit strange. But not to worry! You will be well-versed in Javascript by the end of the course.
 
-###Resources
+###Resources:
 - [Read Chapters 1 & 2 of Eloquent Javascript](http://eloquentjavascript.net/contents.html)
 - [Code School Javascript Roadtrip - Part 1](https://www.codeschool.com/courses/javascript-road-trip-part-1)
 - [Code School Javascript Roadtrip - Part 2](https://www.codeschool.com/courses/javascript-road-trip-part-2)
 - [CodeCademy](http://www.codecademy.com/tracks/javascript)
 - [Code School Javascript Best Practices](https://www.codeschool.com/courses/javascript-best-practices)
+
+###Assess Yourself:
+Use this [JS REPL](http://www.jsrepl.com/languages/JavaScript) to test your JS chops.
+
+- Print out all the numbers from 1 to 100
+- Create an array that holds 5 of your favorite things
+  - Loop through that array and print out each one
+- Write a method, greet, that takes a person's name as an argument and prints "Hello" plus that person's name (i.e. "Hello You!").
+- Write a method, `double`, that takes a number `num` as an argument and returns 2 times that number.
+- Write a method, `is_even?`, that takes a number num as an argument and returns `true` if it is even and `false` otherwise.
+- Write a program/script that prints the numbers from 1 to 100.
+  - As it's running, print "Fizz" instead of the number if it's a multiple of 3.
+  - For the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
+
 
 ##Git (6 hours)
 
