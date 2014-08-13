@@ -3,7 +3,7 @@
 # WDI Prework
 Dear WDI Student,
 
-The goal of this prework is to provide exposure to crucial concepts in web-based programming that we'll be returning to and covering in-depth during the course.  It should take approximately 50 hours to complete, so plan ahead and give yourself ample time.
+The goal of this prework is to provide exposure to crucial concepts in web-based programming that we'll be returning to and covering in-depth during the course.  It should take approximately 65 hours to complete, so plan ahead and give yourself ample time.
 
 **IMPORTANT: Completion of this prework is absolutely mandatory.**
 
@@ -19,7 +19,7 @@ Most web developers, including our instructional team, use Macs to do their deve
 
 - Computer: **MacBook Air or MacBook Pro**
 - Operating System: **OSX Mountain Lion (10.7) or greater**
-- Text Editor: **Sublime Text**
+- Text Editor: **Sublime Text** (You do not have to purchase this!)
 - Internet Browser: **Google Chrome**
 
 If you plan on updating your OS at some point over the next few months, be sure to do so before you come to Installfest. It's never a good idea to update your entire system during a class or a major project.
@@ -30,7 +30,7 @@ The prework does not require any specific software or configuration other than a
 
 Prior to class, we will have an “Installfest” to install and configure your development environment (If you don't do it correctly, you may need to start over) while giving you an opportunity to get to know your classmates.
 
-**DO NOT** try to install anything else (Ruby, Rails, PostgreSQL, etc.) until Installfest, as bad installs can cause serious, frustrating problems.  If you’ve already set up your development environment, we recommend making a backup of your settings.
+**PLEASE DO NOT** try to install anything else (Ruby, Rails, PostgreSQL, etc.) until Installfest, as bad installs can cause serious, frustrating problems.  If you’ve already set up your development environment, we recommend making a backup of your settings.
 
 ###Account Signups
 
@@ -119,7 +119,6 @@ The command line is a new way you'll be interacting with your computer. It looks
 - [Learn Command Line the Hard Way](http://cli.learncodethehardway.org/book/) - This tutorial is in-depth and can take 1-2 days.
 
 
-
 ---
 
 #PART 2 - Internet & Web Development Basics
@@ -149,7 +148,6 @@ We're learning to build web applications, so it's important to understand how th
   - Browser
   - IP Address
   - DNS
-
 
 
 ##HTML & CSS (15 hours)
@@ -236,7 +234,7 @@ Instead of attempting to install Ruby (and creating headaches at Installfest), t
 Javascript is the language of the web and an increasingly popular language. As a soon-to-be web developer, we want you to get some exposure to it. Compared to Ruby, it may feel a bit strange. But not to worry! You will be well-versed in Javascript by the end of the course.
 
 ###Resources:
-- [Read Chapters 1 & 2 of Eloquent Javascript](http://eloquentjavascript.net/contents.html)
+- [Read Chapters 1 & 2 of Eloquent Javascript - 2nd Edition](http://eloquentjavascript.net/)
 - [Code School Javascript Roadtrip - Part 1](https://www.codeschool.com/courses/javascript-road-trip-part-1)
 - [Code School Javascript Roadtrip - Part 2](https://www.codeschool.com/courses/javascript-road-trip-part-2)
 - [CodeCademy](http://www.codecademy.com/tracks/javascript)
@@ -296,5 +294,5 @@ Check out these articles on learning to program:
 - [How I Became a Programmer](http://mattdeboard.net/2011/11/23/how-i-became-a-programmer/)
 - [Check out Hacker News](https://news.ycombinator.com/)
 
----
-**Completing the work in these links will be critical to your success. Historically, thorough completion of the pre-work has been the single greatest indicator of student ability to do well in the course! Please ensure you take the necessary time to complete the pre-work, and bring any questions to instructors during Study Hall.**
+
+***Completing the work in these links will be critical to your success. Historically, thorough completion of the pre-work has been the single greatest indicator of student ability to do well in the course! Please ensure you take the necessary time to complete the pre-work, and bring any questions to instructors during Study Hall.***
