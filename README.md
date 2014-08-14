@@ -3,7 +3,7 @@
 # WDI Prework
 Dear WDI Student,
 
-The goal of this prework is to provide exposure to crucial concepts in web-based programming that we'll be returning to and covering in-depth during the course.  It should take approximately 65 hours to complete, so plan ahead and give yourself ample time.
+The goal of this prework is to provide exposure to crucial concepts in web-based programming that we'll be returning to and covering in-depth during the course.  It should take approximately 70-80 hours to complete, so plan ahead and give yourself ample time.
 
 **IMPORTANT: Completion of this prework is absolutely mandatory.**
 
@@ -293,6 +293,5 @@ Check out these articles on learning to program:
 - [Becoming an Apprentice](http://hugomelo.com/becoming-an-apprentice/)
 - [How I Became a Programmer](http://mattdeboard.net/2011/11/23/how-i-became-a-programmer/)
 - [Check out Hacker News](https://news.ycombinator.com/)
-
 
 ***Completing the work in these links will be critical to your success. Historically, thorough completion of the pre-work has been the single greatest indicator of student ability to do well in the course! Please ensure you take the necessary time to complete the pre-work, and bring any questions to instructors during Study Hall.***
