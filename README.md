@@ -19,7 +19,7 @@ Most web developers, including our instructional team, use Macs to do their deve
 
 - Computer: **MacBook Air or MacBook Pro**
 - Operating System: **OSX Mountain Lion (10.7) or greater**
-- Text Editor: **Sublime Text** (You do not have to purchase this!)
+- Text Editor: **[Sublime Text 3](http://www.sublimetext.com/3)** (You do not have to purchase this!)
 - Internet Browser: **Google Chrome**
 
 If you plan on updating your OS at some point over the next few months, be sure to do so before you come to Installfest. It's never a good idea to update your entire system during a class or a major project.
